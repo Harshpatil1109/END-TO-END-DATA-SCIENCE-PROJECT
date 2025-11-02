@@ -29,4 +29,5 @@ To deploy the API in a cloud-accessible environment, the project uses ngrok, whi
 Finally, the deliverables include a deployed API endpoint and a web application demonstration that highlights the model’s prediction capability. This project not only reinforces technical concepts in machine learning, such as data preprocessing and model evaluation, but also emphasizes practical skills in deployment and integration, which are crucial in real-world data science workflows. It provides a complete understanding of the data science lifecycle—from raw data to a fully functional, interactive predictive service.
 
 OUTPUT:
+
 <img width="800" height="300" alt="Image" src="https://github.com/user-attachments/assets/c27fd3da-3e65-4d83-af25-6be3008b382c" />
